@@ -75,6 +75,7 @@ public class socket_Server {
 		in:do{
 		System.out.println("\nPlease Select the Arthitemetic Operation you want to perform");
 		System.out.println("\n1. Addition 2. Subtraction 3. Multiplication 4. Division 5.Modulus");
+		System.out.println("Enter any Key to exit from Program"); 
 		try{
 			input=userInput.nextInt();
 		}

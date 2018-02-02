@@ -64,7 +64,7 @@ public class connect {
 	
 	public static void toDate() {
 		String timeStamp = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss").format(Calendar.getInstance().getTime());
-		System.out.println(timeStamp + "\nProgrammed by Vaishnavi Bhadresh\n");
+		System.out.println(timeStamp + "\nProgrammed by Vaishnavi Bhadresh and Manish Kaujalgi \n");
 	}
 	
 }
